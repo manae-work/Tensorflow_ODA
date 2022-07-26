@@ -1,7 +1,9 @@
 MIT License
 
 Copyright (c) 2022 Manae Shimizu
-<This repository is newly created based on Tensorflow2-ObjectDetectionAPI-Colab-Hands-On by KazuhitoTakahashi. The latest Tensorflow 2.9.1 (as of July 2022) is available in this repository. Specialize in creating models that can ultimately be used in Tensorflow.js.>
+<This repository is newly created based on Tensorflow2-ObjectDetectionAPI-Colab-Hands-On by KazuhitoTakahashi.
+The latest Tensorflow 2.9.1 (as of July 2022) is available in this repository. 
+Specialize in creating models that can ultimately be used in Tensorflow.js.>
 
 Copyright (c) 2020 KazuhitoTakahashi
 
